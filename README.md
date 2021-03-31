@@ -1,2 +1,2 @@
 # CGPA_Calculator
-This is a simple application that calculate cgpa
+This is a simple application that calculates cgpa
